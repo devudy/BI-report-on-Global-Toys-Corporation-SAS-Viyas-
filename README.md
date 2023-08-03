@@ -1,1 +1,3 @@
 # BI-report-on-Global-Toys-Corporation-SAS-Viyas-
+
+It is a Business intelligence reports made with the purpose of different people in the organization using it, which includes include accountants, finance professionals, marketers, salespeople, product managers, among others. In this analysis we have analysed data for a client of a Global Toys Corporation, one of the world’s largest toy manufacturers with operations across the globe. In this analysis we have developed a case study (a visual story line) that will help the executive team for better and faster understanding of the presented information. In this report we have gone over some facts about current business performance and then use that data to make the case for a new strategy.
